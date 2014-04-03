@@ -1,0 +1,9 @@
+GPSmle                  Generalized Poisson Statistical Maximum
+                        Likelihood Estimation.
+GPSmle.default          Generalized Poisson Statistical Maximum
+                        Likelihood Estimation (default)
+GPSmleEst               GPSmle Estimation Function
+deGPS-package           Differential Expression Test for RNA-seq Data
+deGPS_mRNA              Differential Expression Test for mRNA-seq Data
+plot.GPSmle             Plot GPSmle
+summary.GPSmle          summary of GPSmle

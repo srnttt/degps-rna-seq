@@ -1,0 +1,4 @@
+import(foreach, doMC)
+export(GPSmle, GPSmle.default, GPSmleEst, deGPS_mRNA)
+S3method(plot, GPSmle)
+S3method(summary, GPSmle)
